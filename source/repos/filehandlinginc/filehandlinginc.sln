@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "filehandlinginc", "filehandlinginc\filehandlinginc.vcxproj", "{56741954-8D63-4FD7-B9DC-BF6E17263ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Debug|x64.ActiveCfg = Debug|x64
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Debug|x64.Build.0 = Debug|x64
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Debug|x86.ActiveCfg = Debug|Win32
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Debug|x86.Build.0 = Debug|Win32
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Release|x64.ActiveCfg = Release|x64
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Release|x64.Build.0 = Release|x64
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Release|x86.ActiveCfg = Release|Win32
+		{56741954-8D63-4FD7-B9DC-BF6E17263ABE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
