@@ -1,0 +1,4 @@
+This is a custom stream example!
+Logging this message to both console and file.
+This is a custom stream example!
+Logging this message to both console and file.
