@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\filehandlinginc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56741954-8D63-4FD7-B9DC-BF6E17263ABE}|filehandlinginc\\filehandlinginc.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\filehandlinginc\\filehandlinginc\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56741954-8D63-4FD7-B9DC-BF6E17263ABE}|filehandlinginc\\filehandlinginc.vcxproj|solutionrelative:filehandlinginc\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56741954-8D63-4FD7-B9DC-BF6E17263ABE}|filehandlinginc\\filehandlinginc.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\filehandlinginc\\filehandlinginc\\files.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56741954-8D63-4FD7-B9DC-BF6E17263ABE}|filehandlinginc\\filehandlinginc.vcxproj|solutionrelative:filehandlinginc\\files.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample.txt",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\filehandlinginc\\filehandlinginc\\sample.txt",
+              "RelativeDocumentMoniker": "filehandlinginc\\sample.txt",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\filehandlinginc\\filehandlinginc\\sample.txt",
+              "RelativeToolTip": "filehandlinginc\\sample.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-17T09:12:49.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "files.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\filehandlinginc\\filehandlinginc\\files.cpp",
+              "RelativeDocumentMoniker": "filehandlinginc\\files.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\filehandlinginc\\filehandlinginc\\files.cpp",
+              "RelativeToolTip": "filehandlinginc\\files.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T09:10:30.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
