@@ -27,11 +27,20 @@
 //	return a + b + c;
 //}
 ///// at compile time itself compiler replaces or uses the function in object or assembly code
-//class operatorOverload {
+//class myClass {
+//	int a;
 //public:
-//	int operator+(int a)
-//	{
-//		return(a);
+//	void setdata(int a) {
+//		this->a = a;
+//	}
+//	void operator + (myClass& obj) {
+//		a = a + obj.a;
+//	}
+//	void display() {
+//		cout << a << endl;
+//	}
+//	void operator ++ () {
+//		a = a - 1;
 //	}
 //};
 //int main()
@@ -44,6 +53,16 @@
 //
 //
 //	///operator overloading
+//
+//	myClass m1, m2;
+//	m1.setdata(7);
+//	m2.setdata(7);
+//	m1.display();
+//	m1 + m2;
+//	m1.display();
+//
+//	++m1;
+//	m1.display();
 //	return 0;
 //}
 //
@@ -96,5 +115,18 @@
 ////Use extern "C" for C linkage(no mangling).
 //
 //
-//
+////#include<iostream>
+////#include<stdio.h>
+////using namespace std;
+////
+////extern "C" {  // by writing extern C we are telling to compiler that you should take necessary action not to mangle the printf 
+////	// function of c library
+////	int printf(char* ch) {
+////
+////	};
+////}
+////int main() {
+////	printf("hi");
+////	return 0;
+////}
 //
