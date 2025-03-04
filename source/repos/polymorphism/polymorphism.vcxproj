@@ -127,8 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binaryoperator.cpp" />
     <ClCompile Include="polymorphism.cpp" />
+    <ClCompile Include="prepost.cpp" />
+    <ClCompile Include="privateinheritance.cpp" />
     <ClCompile Include="runtimepoly.cpp" />
+    <ClCompile Include="withoutvirtual.cpp" />
+    <ClCompile Include="withvirtualruntime.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
