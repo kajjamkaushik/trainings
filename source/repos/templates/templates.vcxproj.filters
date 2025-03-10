@@ -18,5 +18,11 @@
     <ClCompile Include="templates.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="templatespecialisation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="templatemetaprogramming.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
