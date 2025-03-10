@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\templates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76E4D8E7-EDF0-4B6F-BA07-8B47D9026A7C}|templates.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\templates\\templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{76E4D8E7-EDF0-4B6F-BA07-8B47D9026A7C}|templates.vcxproj|solutionrelative:templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{76E4D8E7-EDF0-4B6F-BA07-8B47D9026A7C}|templates.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\templates\\templatemetaprogramming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76E4D8E7-EDF0-4B6F-BA07-8B47D9026A7C}|templates.vcxproj|solutionrelative:templatemetaprogramming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "templates.cpp",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\templates\\templates.cpp",
-              "RelativeDocumentMoniker": "templates.cpp",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\templates\\templates.cpp",
-              "RelativeToolTip": "templates.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAOAAAAAAAAAA==",
+              "Title": "templatemetaprogramming.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\templates\\templatemetaprogramming.cpp",
+              "RelativeDocumentMoniker": "templatemetaprogramming.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\templates\\templatemetaprogramming.cpp*",
+              "RelativeToolTip": "templatemetaprogramming.cpp*",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T11:55:07.801Z",
+              "WhenOpened": "2025-03-10T06:13:50.417Z",
               "EditorCaption": ""
             }
           ]
