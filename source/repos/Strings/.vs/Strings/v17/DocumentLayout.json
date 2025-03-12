@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F3249F8-E09C-484B-95EF-A23893A97EE8}|Strings\\Strings.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F3249F8-E09C-484B-95EF-A23893A97EE8}|Strings\\Strings.vcxproj|solutionrelative:Strings\\demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F3249F8-E09C-484B-95EF-A23893A97EE8}|Strings\\Strings.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\stringall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F3249F8-E09C-484B-95EF-A23893A97EE8}|Strings\\Strings.vcxproj|solutionrelative:Strings\\stringall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3249F8-E09C-484B-95EF-A23893A97EE8}|Strings\\Strings.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\stringImplementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F3249F8-E09C-484B-95EF-A23893A97EE8}|Strings\\Strings.vcxproj|solutionrelative:Strings\\stringImplementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "demo.cpp",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\demo.cpp",
-              "RelativeDocumentMoniker": "Strings\\demo.cpp",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\demo.cpp",
-              "RelativeToolTip": "Strings\\demo.cpp",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAwE0AAAABAAAAAAAAAA==",
+              "Title": "stringall.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\stringall.cpp",
+              "RelativeDocumentMoniker": "Strings\\stringall.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\stringall.cpp",
+              "RelativeToolTip": "Strings\\stringall.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8CAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T09:20:43.652Z",
+              "WhenOpened": "2025-03-11T18:46:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stringImplementation.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\stringImplementation.cpp",
+              "RelativeDocumentMoniker": "Strings\\stringImplementation.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Strings\\Strings\\stringImplementation.cpp",
+              "RelativeToolTip": "Strings\\stringImplementation.cpp",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAIwP8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T13:56:53.073Z",
               "EditorCaption": ""
             }
           ]
