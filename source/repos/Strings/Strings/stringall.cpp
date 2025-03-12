@@ -720,3 +720,4 @@ int main() {
 //    String : "Not empty"
 //    isEmpty() : false
 //    After clear(), isEmpty() : true
+
