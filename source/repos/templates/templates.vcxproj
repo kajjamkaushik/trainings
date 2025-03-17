@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="TemplateInheritance.cpp" />
     <ClCompile Include="templatemetaprogramming.cpp" />
     <ClCompile Include="templates.cpp" />
     <ClCompile Include="templatespecialisation.cpp" />
