@@ -28,14 +28,10 @@
               "RelativeDocumentMoniker": "sharedptr.cpp",
               "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\pointers\\sharedptr.cpp",
               "RelativeToolTip": "sharedptr.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-12T08:47:26.497Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -45,9 +41,14 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\pointers\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T19:00:44.149Z"
+              "WhenOpened": "2025-03-11T19:00:44.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
