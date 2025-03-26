@@ -127,9 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="customDeleterDemo.cpp" />
+    <ClCompile Include="cyclicDependency.cpp" />
     <ClCompile Include="raiidemo.cpp" />
+    <ClCompile Include="sharedDemo.cpp" />
     <ClCompile Include="shared_ptr_void.cpp" />
+    <ClCompile Include="uniquedemo.cpp" />
     <ClCompile Include="unique_ptr_void.cpp" />
+    <ClCompile Include="weakptrDemo.cpp" />
+    <ClCompile Include="weakptrImplement.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|solutionrelative:Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|solutionrelative:address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6518E049-935E-4875-9185-01FE3ADCFDB6}|CircularDependency.vcxproj|solutionrelative:person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T11:19:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "address.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\address.cpp",
+              "RelativeDocumentMoniker": "address.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\address.cpp",
+              "RelativeToolTip": "address.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T11:18:41.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "address.h",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\address.h",
+              "RelativeDocumentMoniker": "address.h",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\address.h",
+              "RelativeToolTip": "address.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T11:18:04.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "person.h",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\person.h",
+              "RelativeDocumentMoniker": "person.h",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\person.h",
+              "RelativeToolTip": "person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T11:17:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\CircularDependency\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T11:17:21.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
