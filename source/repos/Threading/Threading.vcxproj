@@ -127,10 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10uniquelock.cpp" />
     <ClCompile Include="1introthreading.cpp" />
     <ClCompile Include="2typesofthreadCreation.cpp" />
     <ClCompile Include="3JoinandDetach.cpp" />
     <ClCompile Include="4mutex.cpp" />
+    <ClCompile Include="6.trylock.cpp" />
+    <ClCompile Include="7TimedMutex.cpp" />
+    <ClCompile Include="8RecursiveMutex.cpp" />
+    <ClCompile Include="9lockGuard.cpp" />
+    <ClCompile Include="starter.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

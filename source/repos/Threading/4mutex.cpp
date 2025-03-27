@@ -52,27 +52,27 @@ There are so many try_lock function
 9. std::recursive_timed_mutex::try_lock
 */
 
-int counter = 0;
-std::mutex mtx;
-
-void increaseTheCounterFor100000Time() {
-    for (int i = 0; i < 100000; ++i) {
-        if (mtx.try_lock()) {
-            ++counter;
-            mtx.unlock();
-        }
-    }
-}
-
-int main() {
-    std::thread t1(increaseTheCounterFor100000Time);
-    std::thread t2(increaseTheCounterFor100000Time);
-
-    t1.join();
-    t2.join();
-
-    cout << "counter could increase up to : " << counter << endl;
-    ///counter could increase up to : 112128
-    return 0;
-}
-
+//int counter = 0;
+//std::mutex mtx;
+//
+//void increaseTheCounterFor100000Time() {
+//    for (int i = 0; i < 100000; ++i) {
+//        if (mtx.try_lock()) {
+//            ++counter;
+//            mtx.unlock();
+//        }
+//    }
+//}
+//
+//int main() {
+//    std::thread t1(increaseTheCounterFor100000Time);
+//    std::thread t2(increaseTheCounterFor100000Time);
+//
+//    t1.join();
+//    t2.join();
+//
+//    cout << "counter could increase up to : " << counter << endl;
+//    ///counter could increase up to : 112128
+//    return 0;
+//}
+//
