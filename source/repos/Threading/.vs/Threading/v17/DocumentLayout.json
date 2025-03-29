@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\10uniquelock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|solutionrelative:10uniquelock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\18SleepVsWait.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|solutionrelative:18SleepVsWait.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\17ProducerConsumerProblem .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|solutionrelative:17ProducerConsumerProblem .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\16async.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|solutionrelative:16async.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +26,48 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "10uniquelock.cpp",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\10uniquelock.cpp",
-              "RelativeDocumentMoniker": "10uniquelock.cpp",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\10uniquelock.cpp",
-              "RelativeToolTip": "10uniquelock.cpp",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEkAAABNAAAAAAAAAA==",
+              "Title": "18SleepVsWait.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\18SleepVsWait.cpp",
+              "RelativeDocumentMoniker": "18SleepVsWait.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\18SleepVsWait.cpp",
+              "RelativeToolTip": "18SleepVsWait.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-26T13:28:03.019Z",
+              "WhenOpened": "2025-03-28T03:15:27.549Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "17ProducerConsumerProblem .cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\17ProducerConsumerProblem .cpp",
+              "RelativeDocumentMoniker": "17ProducerConsumerProblem .cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\17ProducerConsumerProblem .cpp",
+              "RelativeToolTip": "17ProducerConsumerProblem .cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T14:22:03.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "16async.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\16async.cpp",
+              "RelativeDocumentMoniker": "16async.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\16async.cpp",
+              "RelativeToolTip": "16async.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T14:05:44.582Z"
             }
           ]
         }

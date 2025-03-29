@@ -45,5 +45,29 @@
     <ClCompile Include="10uniquelock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11_conditional_variable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12DeadlockinC++.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13ThreadSynchornisation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14std_lock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15PromiseAndFuture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16async.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17ProducerConsumerProblem .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18SleepVsWait.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
