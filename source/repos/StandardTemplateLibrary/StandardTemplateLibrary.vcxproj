@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -132,6 +133,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayDemo.cpp" />
+    <ClCompile Include="forward_list.cpp" />
+    <ClCompile Include="list.cpp" />
+    <ClCompile Include="lists.cpp" />
+    <ClCompile Include="Multiset.cpp" />
+    <ClCompile Include="pair.cpp" />
+    <ClCompile Include="set.cpp" />
     <ClCompile Include="vectorDemo.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

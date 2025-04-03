@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\ArrayDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:ArrayDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\vectorDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:vectorDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Multiset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:Multiset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,59 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Array.h",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Array.h",
-              "RelativeDocumentMoniker": "Array.h",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Array.h",
-              "RelativeToolTip": "Array.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-28T13:40:46.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArrayDemo.cpp",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\ArrayDemo.cpp",
-              "RelativeDocumentMoniker": "ArrayDemo.cpp",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\ArrayDemo.cpp",
-              "RelativeToolTip": "ArrayDemo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "Multiset.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Multiset.cpp",
+              "RelativeDocumentMoniker": "Multiset.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Multiset.cpp",
+              "RelativeToolTip": "Multiset.cpp",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAAAHoBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-28T13:40:28.299Z",
+              "WhenOpened": "2025-04-02T14:17:24.007Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "vectorDemo.cpp",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\vectorDemo.cpp",
-              "RelativeDocumentMoniker": "vectorDemo.cpp",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\vectorDemo.cpp",
-              "RelativeToolTip": "vectorDemo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-28T13:35:17.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Vector.h",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Vector.h",
-              "RelativeDocumentMoniker": "Vector.h",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Vector.h",
-              "RelativeToolTip": "Vector.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-28T12:40:43.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

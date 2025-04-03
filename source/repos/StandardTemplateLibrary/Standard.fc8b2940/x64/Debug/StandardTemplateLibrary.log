@@ -1,0 +1,11 @@
+﻿  ArrayDemo.cpp
+  forward_list.cpp
+  list.cpp
+  lists.cpp
+  Multiset.cpp
+C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Multiset.cpp(334,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pair.cpp
+  set.cpp
+  vectorDemo.cpp
+  Generating Code...
+  StandardTemplateLibrary.vcxproj -> C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\x64\Debug\StandardTemplateLibrary.exe

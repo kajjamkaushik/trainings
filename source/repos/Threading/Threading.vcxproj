@@ -104,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -133,6 +134,11 @@
     <ClCompile Include="17ProducerConsumerProblem .cpp" />
     <ClCompile Include="18SleepVsWait.cpp" />
     <ClCompile Include="1introthreading.cpp" />
+    <ClCompile Include="20StaticVariableisThreadSafeOrnot.cpp" />
+    <ClCompile Include="21_BinarySemaphore.cpp" />
+    <ClCompile Include="22MutexvsSemaphore.cpp" />
+    <ClCompile Include="23ProducerConsumerSemaphore.cpp" />
+    <ClCompile Include="24ThreadPool.cpp" />
     <ClCompile Include="2typesofthreadCreation.cpp" />
     <ClCompile Include="3JoinandDetach.cpp" />
     <ClCompile Include="4mutex.cpp" />

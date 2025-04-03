@@ -69,5 +69,20 @@
     <ClCompile Include="18SleepVsWait.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20StaticVariableisThreadSafeOrnot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21_BinarySemaphore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="22MutexvsSemaphore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23ProducerConsumerSemaphore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="24ThreadPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

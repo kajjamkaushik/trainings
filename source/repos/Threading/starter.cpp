@@ -9,3 +9,10 @@
 //{
 //	return 0;
 //}
+
+//#include <iostream>
+//
+//int main() {
+//    std::cout << "MSVC Compiler Version: " << _MSC_VER << std::endl;
+//    return 0;
+//}
