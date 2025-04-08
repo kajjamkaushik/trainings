@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Iterators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:Iterators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Multiset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:Multiset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,15 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Iterators.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Iterators.cpp",
+              "RelativeDocumentMoniker": "Iterators.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Iterators.cpp",
+              "RelativeToolTip": "Iterators.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T12:30:11.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "map.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\map.cpp",
+              "RelativeDocumentMoniker": "map.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\map.cpp",
+              "RelativeToolTip": "map.cpp",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAwGgBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T13:06:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Multiset.cpp",
               "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Multiset.cpp",
               "RelativeDocumentMoniker": "Multiset.cpp",
               "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Multiset.cpp",
               "RelativeToolTip": "Multiset.cpp",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAiwEUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T14:17:24.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:17:24.007Z"
             }
           ]
         }
