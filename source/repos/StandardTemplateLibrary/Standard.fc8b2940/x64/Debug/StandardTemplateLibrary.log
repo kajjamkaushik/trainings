@@ -1,5 +1,4 @@
-﻿  Iterators.cpp
-  map.cpp
-  Source.cpp
+﻿  vectorReserve.cpp
+  vectorvsArrayAcess.cpp
   Generating Code...
   StandardTemplateLibrary.vcxproj -> C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\x64\Debug\StandardTemplateLibrary.exe

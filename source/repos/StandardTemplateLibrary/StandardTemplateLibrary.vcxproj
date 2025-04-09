@@ -132,17 +132,31 @@
     <ClInclude Include="Vector.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Algorithms.cpp" />
     <ClCompile Include="ArrayDemo.cpp" />
+    <ClCompile Include="copy_and_copy_if.cpp" />
+    <ClCompile Include="copy_n&amp;copy_backward.cpp" />
     <ClCompile Include="forward_list.cpp" />
+    <ClCompile Include="iota.cpp" />
+    <ClCompile Include="is_sort.cpp" />
     <ClCompile Include="Iterators.cpp" />
     <ClCompile Include="list.cpp" />
     <ClCompile Include="lists.cpp" />
     <ClCompile Include="map.cpp" />
+    <ClCompile Include="mdspan.cpp" />
     <ClCompile Include="Multiset.cpp" />
+    <ClCompile Include="nth_element.cpp" />
     <ClCompile Include="pair.cpp" />
+    <ClCompile Include="partial_sort.cpp" />
     <ClCompile Include="set.cpp" />
+    <ClCompile Include="sort.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source1.cpp" />
+    <ClCompile Include="Source2.cpp" />
+    <ClCompile Include="span.cpp" />
     <ClCompile Include="vectorDemo.cpp" />
+    <ClCompile Include="vectorReserve.cpp" />
+    <ClCompile Include="vectorvsArrayAcess.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

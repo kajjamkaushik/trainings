@@ -45,78 +45,78 @@ Comparison Table:
 | Random Access Iterator | ✅   | ✅   | ✅           | ✅           | ✅           |
 */
 
-#include <iostream>
-#include <iterator>
-#include <vector>
-#include <list>
-#include <forward_list>
-
-// Input Iterator Example
-int inputIteratorExample() {
-    std::vector<int> v = { 10, 20, 30, 40 };
-    std::vector<int>::iterator it = v.begin();
-    while (it != v.end()) {
-        std::cout << *it << " ";
-        ++it;
-    }
-    return 0;
-}
-
-// Output Iterator Example
-int outputIteratorExample() {
-    std::vector<int> v = { 1, 2, 3, 4 };
-    std::ostream_iterator<int> out_it(std::cout, " ");
-    std::copy(v.begin(), v.end(), out_it);
-    return 0;
-}
-
-// Forward Iterator Example
-int forwardIteratorExample() {
-    std::forward_list<int> fl = { 10, 20, 30, 40 };
-    for (auto it = fl.begin(); it != fl.end(); ++it) {
-        std::cout << *it << " ";
-    }
-    return 0;
-}
-
-// Bidirectional Iterator Example
-int bidirectionalIteratorExample() {
-    std::list<int> lst = { 10, 20, 30, 40 };
-    for (auto it = lst.begin(); it != lst.end(); ++it) {
-        std::cout << *it << " ";
-    }
-    std::cout << "\nReverse order: ";
-    for (auto rit = lst.rbegin(); rit != lst.rend(); ++rit) {
-        std::cout << *rit << " ";
-    }
-    return 0;
-}
-
-// Random Access Iterator Example
-int randomAccessIteratorExample() {
-    std::vector<int> vec = { 10, 20, 30, 40, 50 };
-    std::vector<int>::iterator it = vec.begin();
-    std::cout << "First element: " << *it << "\n";
-    it += 2; // Move forward by 2 positions
-    std::cout << "Third element: " << *it << "\n";
-    return 0;
-}
-
-int main() {
-    std::cout << "\nInput Iterator:\n";
-    inputIteratorExample();
-
-    std::cout << "\n\nOutput Iterator:\n";
-    outputIteratorExample();
-
-    std::cout << "\n\nForward Iterator:\n";
-    forwardIteratorExample();
-
-    std::cout << "\n\nBidirectional Iterator:\n";
-    bidirectionalIteratorExample();
-
-    std::cout << "\n\nRandom Access Iterator:\n";
-    randomAccessIteratorExample();
-
-    return 0;
-}
+//#include <iostream>
+//#include <iterator>
+//#include <vector>
+//#include <list>
+//#include <forward_list>
+//
+//// Input Iterator Example
+//int inputIteratorExample() {
+//    std::vector<int> v = { 10, 20, 30, 40 };
+//    std::vector<int>::iterator it = v.begin();
+//    while (it != v.end()) {
+//        std::cout << *it << " ";
+//        ++it;
+//    }
+//    return 0;
+//}
+//
+//// Output Iterator Example
+//int outputIteratorExample() {
+//    std::vector<int> v = { 1, 2, 3, 4 };
+//    std::ostream_iterator<int> out_it(std::cout, " ");
+//    std::copy(v.begin(), v.end(), out_it);
+//    return 0;
+//}
+//
+//// Forward Iterator Example
+//int forwardIteratorExample() {
+//    std::forward_list<int> fl = { 10, 20, 30, 40 };
+//    for (auto it = fl.begin(); it != fl.end(); ++it) {
+//        std::cout << *it << " ";
+//    }
+//    return 0;
+//}
+//
+//// Bidirectional Iterator Example
+//int bidirectionalIteratorExample() {
+//    std::list<int> lst = { 10, 20, 30, 40 };
+//    for (auto it = lst.begin(); it != lst.end(); ++it) {
+//        std::cout << *it << " ";
+//    }
+//    std::cout << "\nReverse order: ";
+//    for (auto rit = lst.rbegin(); rit != lst.rend(); ++rit) {
+//        std::cout << *rit << " ";
+//    }
+//    return 0;
+//}
+//
+//// Random Access Iterator Example
+//int randomAccessIteratorExample() {
+//    std::vector<int> vec = { 10, 20, 30, 40, 50 };
+//    std::vector<int>::iterator it = vec.begin();
+//    std::cout << "First element: " << *it << "\n";
+//    it += 2; // Move forward by 2 positions
+//    std::cout << "Third element: " << *it << "\n";
+//    return 0;
+//}
+//
+//int main() {
+//    std::cout << "\nInput Iterator:\n";
+//    inputIteratorExample();
+//
+//    std::cout << "\n\nOutput Iterator:\n";
+//    outputIteratorExample();
+//
+//    std::cout << "\n\nForward Iterator:\n";
+//    forwardIteratorExample();
+//
+//    std::cout << "\n\nBidirectional Iterator:\n";
+//    bidirectionalIteratorExample();
+//
+//    std::cout << "\n\nRandom Access Iterator:\n";
+//    randomAccessIteratorExample();
+//
+//    return 0;
+//}
