@@ -14,7 +14,7 @@
 //
 //std::mutex m1;
 //int buffer = 0;
-//
+
 /////tradiotional way 
 ////void task(const char* threadNumber, int loopFor) {
 ////    m1.lock();
@@ -32,7 +32,7 @@
 //        buffer++;
 //        cout <<"threadNumber : " << threadNumber << "buffer : " << buffer << endl;
 //    }
-//    m1.unlock();
+//    //m1.unlock();
 //}
 //int main() {
 //    thread t1(task, "T0 ", 10);

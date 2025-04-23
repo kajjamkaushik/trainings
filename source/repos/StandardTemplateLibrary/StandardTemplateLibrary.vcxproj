@@ -136,7 +136,10 @@
     <ClCompile Include="ArrayDemo.cpp" />
     <ClCompile Include="copy_and_copy_if.cpp" />
     <ClCompile Include="copy_n&amp;copy_backward.cpp" />
+    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="forward_list.cpp" />
+    <ClCompile Include="heapsort.cpp" />
+    <ClCompile Include="Introsort.cpp" />
     <ClCompile Include="iota.cpp" />
     <ClCompile Include="is_sort.cpp" />
     <ClCompile Include="Iterators.cpp" />
@@ -148,6 +151,7 @@
     <ClCompile Include="nth_element.cpp" />
     <ClCompile Include="pair.cpp" />
     <ClCompile Include="partial_sort.cpp" />
+    <ClCompile Include="priority_queue.cpp" />
     <ClCompile Include="set.cpp" />
     <ClCompile Include="sort.cpp" />
     <ClCompile Include="Source.cpp" />

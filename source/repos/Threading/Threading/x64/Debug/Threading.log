@@ -20,8 +20,10 @@
   15PromiseAndFuture.cpp
   Generating Code...
   Compiling...
+  level-1.cpp
+  Singleton.cpp
   starter.cpp
   14std_lock.cpp
   13ThreadSynchornisation.cpp
   Generating Code...
-  Threading.vcxproj -> C:\Users\kajjam_kaushik\source\repos\Threading\x64\Debug\Threading.exe
+C:\Users\kajjam_kaushik\source\repos\Threading\level-1.cpp(10,1): error C4716: 'thread1': must return a value

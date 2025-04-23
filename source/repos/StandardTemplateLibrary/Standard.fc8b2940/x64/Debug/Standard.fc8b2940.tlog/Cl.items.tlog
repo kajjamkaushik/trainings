@@ -2,7 +2,10 @@ C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Algorithms.cpp;C:\U
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\ArrayDemo.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\ArrayDemo.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\copy_and_copy_if.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\copy_and_copy_if.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\copy_n&copy_backward.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\copy_n&copy_backward.obj
+C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\FileName.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\FileName.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\forward_list.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\forward_list.obj
+C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\heapsort.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\heapsort.obj
+C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Introsort.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\Introsort.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\iota.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\iota.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\is_sort.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\is_sort.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Iterators.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\Iterators.obj
@@ -14,6 +17,7 @@ C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Multiset.cpp;C:\Use
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\nth_element.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\nth_element.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\pair.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\pair.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\partial_sort.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\partial_sort.obj
+C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\priority_queue.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\priority_queue.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\set.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\set.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\sort.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\sort.obj
 C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Source.cpp;C:\Users\kajjam_kaushik\source\repos\StandardTemplateLibrary\Standard.fc8b2940\x64\Debug\Source.obj

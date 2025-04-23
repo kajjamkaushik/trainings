@@ -45,18 +45,18 @@
 //    return 0;
 //}
 //
-
-/// output :
-/*Produced = 0 1 4 9 16
-Consumed = 16 9 4 1 0
-Produced = 0 1 4 9 16
-Consumed = 16 9 4 1 0
-Produced = 0 1 4 9 16
-Consumed = 16 9 4 1 0
-Produced = 0 1 4 9 16
-Consumed = 16 9 4 1 0
-Produced = 0 1 4 9 16
-Consumed = 16 9 4 1 0
-Produced = 0 1 4 9 16
-Consumed = 16 9 4
-*/
+//
+///// output :
+///*Produced = 0 1 4 9 16
+//Consumed = 16 9 4 1 0
+//Produced = 0 1 4 9 16
+//Consumed = 16 9 4 1 0
+//Produced = 0 1 4 9 16
+//Consumed = 16 9 4 1 0
+//Produced = 0 1 4 9 16
+//Consumed = 16 9 4 1 0
+//Produced = 0 1 4 9 16
+//Consumed = 16 9 4 1 0
+//Produced = 0 1 4 9 16
+//Consumed = 16 9 4
+//*/
