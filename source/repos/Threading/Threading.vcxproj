@@ -148,11 +148,11 @@
     <ClCompile Include="9lockGuard.cpp" />
     <ClCompile Include="12DeadlockinC++.cpp" />
     <ClCompile Include="15PromiseAndFuture.cpp" />
-    <ClCompile Include="level-1.cpp" />
     <ClCompile Include="Singleton.cpp" />
     <ClCompile Include="starter.cpp" />
     <ClCompile Include="14std_lock.cpp" />
     <ClCompile Include="13ThreadSynchornisation.cpp" />
+    <ClCompile Include="TASK.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

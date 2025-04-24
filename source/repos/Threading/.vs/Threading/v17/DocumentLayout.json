@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\level-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|solutionrelative:level-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\starter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|solutionrelative:starter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\TASK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ED62568-C079-4884-9DD4-DC853D2213CE}|Threading.vcxproj|solutionrelative:TASK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,40 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "starter.cpp",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\starter.cpp",
-              "RelativeDocumentMoniker": "starter.cpp",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\starter.cpp",
-              "RelativeToolTip": "starter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-21T08:57:20.398Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "level-1.cpp",
-              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\level-1.cpp",
-              "RelativeDocumentMoniker": "level-1.cpp",
-              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\level-1.cpp",
-              "RelativeToolTip": "level-1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Title": "TASK.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\TASK.cpp",
+              "RelativeDocumentMoniker": "TASK.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\Threading\\TASK.cpp",
+              "RelativeToolTip": "TASK.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-21T08:56:25.278Z",
+              "WhenOpened": "2025-04-24T09:40:11.441Z",
               "EditorCaption": ""
             }
           ]
