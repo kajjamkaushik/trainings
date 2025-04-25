@@ -154,6 +154,10 @@
     <ClCompile Include="13ThreadSynchornisation.cpp" />
     <ClCompile Include="TASK.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="dest.txt" />
+    <Text Include="file1.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
