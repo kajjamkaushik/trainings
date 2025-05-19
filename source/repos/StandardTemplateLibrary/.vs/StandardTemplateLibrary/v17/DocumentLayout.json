@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Introsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:Introsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\heapsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8B2940-00B1-410D-B99B-B6098826013B}|StandardTemplateLibrary.vcxproj|solutionrelative:heapsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Introsort.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Introsort.cpp",
+              "RelativeDocumentMoniker": "Introsort.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\Introsort.cpp",
+              "RelativeToolTip": "Introsort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T11:32:16.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAwK8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T10:21:01.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "heapsort.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\heapsort.cpp",
+              "RelativeDocumentMoniker": "heapsort.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\StandardTemplateLibrary\\heapsort.cpp",
+              "RelativeToolTip": "heapsort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T10:10:53.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E3DAF6-204C-44F5-8129-A5A317D8C0DD}|structreUnion\\structreUnion.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\FelxibleStructreDemo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76E3DAF6-204C-44F5-8129-A5A317D8C0DD}|structreUnion\\structreUnion.vcxproj|solutionrelative:structreUnion\\FelxibleStructreDemo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E3DAF6-204C-44F5-8129-A5A317D8C0DD}|structreUnion\\structreUnion.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\unions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76E3DAF6-204C-44F5-8129-A5A317D8C0DD}|structreUnion\\structreUnion.vcxproj|solutionrelative:structreUnion\\unions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E3DAF6-204C-44F5-8129-A5A317D8C0DD}|structreUnion\\structreUnion.vcxproj|C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\structureUnion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76E3DAF6-204C-44F5-8129-A5A317D8C0DD}|structreUnion\\structreUnion.vcxproj|solutionrelative:structreUnion\\structureUnion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "structureUnion.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\structureUnion.cpp",
+              "RelativeDocumentMoniker": "structreUnion\\structureUnion.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\structureUnion.cpp",
+              "RelativeToolTip": "structreUnion\\structureUnion.cpp",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwJ0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T12:27:40.075Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FelxibleStructreDemo.c",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\FelxibleStructreDemo.c",
+              "RelativeDocumentMoniker": "structreUnion\\FelxibleStructreDemo.c",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\FelxibleStructreDemo.c",
+              "RelativeToolTip": "structreUnion\\FelxibleStructreDemo.c",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwCsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-18T12:58:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unions.cpp",
+              "DocumentMoniker": "C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\unions.cpp",
+              "RelativeDocumentMoniker": "structreUnion\\unions.cpp",
+              "ToolTip": "C:\\Users\\kajjam_kaushik\\source\\repos\\structreUnion\\structreUnion\\unions.cpp",
+              "RelativeToolTip": "structreUnion\\unions.cpp",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwGwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T12:25:06.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

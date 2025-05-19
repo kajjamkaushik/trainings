@@ -1,0 +1,52 @@
+﻿  customDeleterDemo.cpp
+  cyclicDependency.cpp
+  weakptrImplement.cpp
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(403,19): error C2143: syntax error: missing ';' before '<'
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(403,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(403,48): error C2238: unexpected token(s) preceding ';'
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(414,17): error C2065: 'observers': undeclared identifier
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,25): error C2679: binary '=': no operator found which takes a right-hand operand of type 'main::Subject' (or there is no acceptable conversion)
+      C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(217,14):
+      could be 'WeakPtr<main::Subject> &WeakPtr<main::Subject>::operator =(const SharedPtr<T> &)'
+          with
+          [
+              T=main::Subject
+          ]
+          C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,25):
+          'WeakPtr<main::Subject> &WeakPtr<main::Subject>::operator =(const SharedPtr<T> &)': cannot convert argument 2 from 'main::Subject' to 'const SharedPtr<T> &'
+          with
+          [
+              T=main::Subject
+          ]
+              C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,37):
+              Reason: cannot convert from 'main::Subject' to 'const SharedPtr<T>'
+          with
+          [
+              T=main::Subject
+          ]
+              C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,37):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(203,14):
+      or       'WeakPtr<main::Subject> &WeakPtr<main::Subject>::operator =(WeakPtr<main::Subject> &&) noexcept'
+          C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,25):
+          'WeakPtr<main::Subject> &WeakPtr<main::Subject>::operator =(WeakPtr<main::Subject> &&) noexcept': cannot convert argument 2 from 'main::Subject' to 'WeakPtr<main::Subject> &&'
+              C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,37):
+              Reason: cannot convert from 'main::Subject' to 'WeakPtr<main::Subject>'
+              C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,37):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(188,14):
+      or       'WeakPtr<main::Subject> &WeakPtr<main::Subject>::operator =(const WeakPtr<main::Subject> &)'
+          C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,25):
+          'WeakPtr<main::Subject> &WeakPtr<main::Subject>::operator =(const WeakPtr<main::Subject> &)': cannot convert argument 2 from 'main::Subject' to 'const WeakPtr<main::Subject> &'
+              C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,37):
+              Reason: cannot convert from 'main::Subject' to 'const WeakPtr<main::Subject>'
+              C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,37):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(415,25):
+      while trying to match the argument list '(WeakPtr<main::Subject>, main::Subject)'
+  
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(422,27): error C2065: 'observers': undeclared identifier
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(423,24): error C3536: 'it': cannot be used before it is initialized
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(423,30): error C2065: 'observers': undeclared identifier
+C:\Users\kajjam_kaushik\source\repos\RAII\weakptrImplement.cpp(430,30): error C2065: 'observers': undeclared identifier
+  Generating Code...
