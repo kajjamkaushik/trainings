@@ -1,5 +1,15 @@
-# Create .gitignore file
-echo "# Build results
+# Visual Studio specific files
+.vs/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
 [Dd]ebug/
 [Rr]elease/
 x64/
@@ -9,16 +19,8 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
-[Ll]og/
-[Ll]ogs/
 
-# Visual Studio files
-.vs/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.vcxproj.filters
+# Visual C++ cache files
 ipch/
 *.aps
 *.ncb
@@ -28,13 +30,11 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
-*.vsidx
-*.ipch
 
-# Binary files
-*.exe
-*.dll
-*.pdb
-*.ilk
-*.obj
-*.idb" > .gitignore
+# Allow all source files
+!*.cpp
+!*.h
+!*.c
+!*.hpp
+!*.txt
+!*.md
