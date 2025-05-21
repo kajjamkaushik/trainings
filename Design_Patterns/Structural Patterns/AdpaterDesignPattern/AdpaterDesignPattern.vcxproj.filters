@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UI.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Furniture.cpp">
+    <ClCompile Include="xmltojson.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

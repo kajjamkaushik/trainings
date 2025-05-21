@@ -13,9 +13,9 @@ int main()
 	ILoggerFactory* loggerFactory3 = new ErrorLoggerFactory;
 	ILogger* errorLogger = loggerFactory3->createLogger();
 
-	infoLogger->log("This is a debug log msg ");
+	infoLogger->log("This is a info log msg ");
 	debugLogger->log("This is a debug log msg ");
-	errorLogger->log("This is a debug log msg ");
+	errorLogger->log("This is a error 2log msg ");
 
 	delete infoLogger;
 	delete debugLogger;
