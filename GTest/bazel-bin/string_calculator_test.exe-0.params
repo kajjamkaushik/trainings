@@ -1,0 +1,11 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/string_calculator_test.exe
+bazel-out/x64_windows-fastbuild/bin/_objs/string_calculator_test/string_calculator_test.obj
+bazel-out/x64_windows-fastbuild/bin/string_calculator.lib
+bazel-out/x64_windows-fastbuild/bin/external/googletest+/gtest_main.lib
+bazel-out/x64_windows-fastbuild/bin/external/googletest+/gtest.lib
+/SUBSYSTEM:CONSOLE
+/MACHINE:X64
+/DEFAULTLIB:msvcrt.lib
+/DEBUG:FASTLINK
+/INCREMENTAL:NO

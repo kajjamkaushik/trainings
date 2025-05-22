@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/string_calculator.lib
+/MACHINE:X64
+bazel-out/x64_windows-fastbuild/bin/_objs/string_calculator/string_calculator.obj
+/ignore:4221

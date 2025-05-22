@@ -1,0 +1,15 @@
+Executing tests from //:string_calculator_test
+-----------------------------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from StringCalculatorTest
+[ RUN      ] StringCalculatorTest.TwoNumbersReturnSum
+[       OK ] StringCalculatorTest.TwoNumbersReturnSum (0 ms)
+[ RUN      ] StringCalculatorTest.MultipleNumbersReturnSum
+[       OK ] StringCalculatorTest.MultipleNumbersReturnSum (0 ms)
+[ RUN      ] StringCalculatorTest.EmptyStringReturnsZero
+[       OK ] StringCalculatorTest.EmptyStringReturnsZero (0 ms)
+[ RUN      ] StringCalculatorTest.SingleNumberReturnsValue
+[       OK ] StringCalculatorTest.SingleNumberReturnsValue (0 ms)
+[ RUN      ] StringCalculatorTest.InvalidInputHandling
